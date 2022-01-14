@@ -1,0 +1,37 @@
+#p1 {
+    font-size: large;
+    font-family: 'Times New Roman';
+}
+h1 {
+    font-style:oblique;
+    line-height: normal;
+}
+#img1 {
+  margin-left: 700px;
+}
+body {
+  background-image: url("hh_drive_96dp.png");
+  background-position: cover;
+}
+#p2 {
+  word-break: normal;
+  text-transform: none;
+  font-size: large;
+  font-family: monospace;
+}
+#p3 {
+  font-size: large;
+  font-family: monospace;
+}
+#p4 {
+  font-size: large;
+  font-family: monospace;
+}
+#p5 {
+  font-size: large;
+  font-family: monospace;
+}
+#p6 {
+  font-size: large;
+  font-family: monospace;
+}
